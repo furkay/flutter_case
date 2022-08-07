@@ -16,6 +16,7 @@ Includes Example Flutter Projet Artitechture, Unit and Widget testing
 Firstly, create a .env file in project main path and put values as ;
 
 API_KEY=[API_KEY]
+<br>
 API_URL=['API_URL]
 
 
