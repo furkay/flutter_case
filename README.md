@@ -1,6 +1,6 @@
 # flutter_case
 
-Includes Example Flutter Projet Artitechture, Unit and Widget testing
+Includes Example Flutter Projet Architecture, Unit and Widget testing
 
     - Unit Test : /test/unit
         * bloc tests
